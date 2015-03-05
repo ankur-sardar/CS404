@@ -1,3 +1,15 @@
+#Comment from Mark A. Yoder
+
+# Demo       5
+# ReadMe.txt 5 - Your last sentence doesn't make sense.
+# Fritzing   0 - Appears copied
+# Code       5  
+# Table      0 - Appears copied
+
+Grade:  15/25
+
+================================================
+
 To: Mark A Yoder
 From: Ankur Sardar
 Date: 23rd September, 2015
