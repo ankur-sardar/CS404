@@ -1,3 +1,20 @@
+# Comments from Mark A. Yoder
+
+5  4 buttons and LEDs
+0  Etch-a-sketch
+0   Combine buttons and Etch-a-sketch
+0   Extras
+7   ReadMe.txt
+-5  Late
+
+Grade 7/25
+
+Etch-a-sketch code is missing.
+
+Good ReadMe
+
+------------------------------------------------
+
 #Homework 02
 
 To : Mark A. Yoder
