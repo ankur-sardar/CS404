@@ -1,3 +1,15 @@
+# Comments from Mark A. Yoder
+
+5   hello2.c
+0   Makefile - Missing
+0   Text from /var/log/kern.log - Missing
+5   ReadMe.txt
+5   Not Late
+
+Grade 15/25
+
+------------------------------------------------
+
 To: Mark A Yoder
 Name: Ankur sardar
 Roll No.: B13108
